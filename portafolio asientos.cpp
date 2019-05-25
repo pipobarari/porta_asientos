@@ -24,7 +24,7 @@ public:
 
 int main(int argc, char *argv[]) {
 	
-	cout<<"					****Bienvenido a nuestro sitio web****"<<endl;
+	cout<<" 				****Bienvenido a nuestro sitio web****"<<endl;
 	cout<<"";
 	
 	return 0;
