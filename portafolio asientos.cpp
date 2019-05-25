@@ -34,7 +34,10 @@ public:
 	reservar(){
 		if (op==1)
 		{
-		
+			if(op2==1)
+			{
+				
+			}
 		
 		}
 			
